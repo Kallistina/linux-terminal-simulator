@@ -1,11 +1,6 @@
-# K24 - System Programming
+# Linux Terminal Simulator
 
-## Project 1 - Custom Shell Implementation
-
-### Author
-**Name:** Kalliopi - Christina Despotidou  
-**Student ID:** 1115202000045
-
+This project is a **Linux terminal simulator** implemented in C++. It replicates core functionalities of a Linux shell, including command execution, file manipulation, process management, and signal handling. It also supports advanced features like aliases, command history, and wildcard character handling.
 ---
 
 ## Overview

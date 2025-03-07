@@ -1,8 +1,5 @@
 # Linux Terminal Simulator
 
-This project is a **Linux terminal simulator** implemented in C++. It replicates core functionalities of a Linux shell, including command execution, file manipulation, process management, and signal handling. It also supports advanced features like aliases, command history, and wildcard character handling.
----
-
 ## Overview
 This project is a simple Unix shell implementation named `mysh`. It provides basic shell functionalities, including:
 - Command parsing and execution
